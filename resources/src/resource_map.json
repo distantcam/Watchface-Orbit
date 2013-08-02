@@ -1,0 +1,36 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/menu_icon.png"
+        },
+        {
+            "defName": "IMAGE_FACE",
+            "type": "png",
+            "file": "images/face.png"
+        },
+        {
+            "defName": "IMAGE_HOUR_PLANET",
+            "type": "png-trans",
+            "file": "images/hour_planet.png"
+        },
+        {
+            "defName": "IMAGE_MINUTE_PLANET",
+            "type": "png-trans",
+            "file": "images/minute_planet.png"
+        },
+        {
+            "defName": "FONT_ROBOTO_22",
+            "type": "font",
+            "file": "fonts/roboto.ttf"
+        },
+        {
+            "defName": "FONT_ROBOTO_14",
+            "type": "font",
+            "file": "fonts/roboto.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
